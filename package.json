@@ -1,5 +1,5 @@
 {
-  "name": "google-tables",
+  "name": "excels",
   "version": "1.0.0",
   "description": "google tables app",
   "main": "webpack.config.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexweb79/google-tables.git"
+    "url": "git+https://github.com/alexweb79/excels.git"
   },
   "keywords": [
     "js",
@@ -21,12 +21,13 @@
   "author": "AlexWeb <alexweb1979@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alexweb79/google-tables/issues"
+    "url": "https://github.com/alexweb79/excels/issues"
   },
-  "homepage": "https://github.com/alexweb79/google-tables#readme",
+  "homepage": "https://github.com/alexweb79/excels#readme",
   "browserslist": "> 0.25%, not dead",
   "devDependencies": {
     "@babel/core": "^7.9.6",
+    "@babel/plugin-proposal-class-properties": "^7.10.1",
     "@babel/preset-env": "^7.9.6",
     "babel-eslint": "^10.1.0",
     "babel-loader": "^8.1.0",
